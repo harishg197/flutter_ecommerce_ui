@@ -1,0 +1,29 @@
+name: ecommerce_app
+description: A Flutter project for a basic e-commerce app.
+
+publish_to: "none" # Remove this line if you are going to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Add the http package for API requests
+  http: ^1.2.2
+
+  # Add any other necessary dependencies
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
