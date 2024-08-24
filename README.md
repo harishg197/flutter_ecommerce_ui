@@ -14,7 +14,7 @@
   - Allows navigation back to the Product List.
   - Includes an "Add to Cart" button for user interaction.
 - **Profile Page:**
-  - Contains personal details 
+  - Contains personal details.
 - **Navigation:**
   - Simple and intuitive navigation between the Home Page, Product List, Product Details, and Profile Page.
 - **Interactive Design:**
