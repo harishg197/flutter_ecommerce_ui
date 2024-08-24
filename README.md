@@ -1,14 +1,23 @@
 # E-commerce App
 
-# Overview
-This project is a basic e-commerce application built using Flutter. 
-The app features a product listing page, a detailed product view, and a profile page. 
-It is designed to showcase products retrieved from a mock API, providing a clean and interactive user interface.
+## Features
 
-# Features
-Home Page: A welcoming screen with navigation options to various parts of the app.
-Product Listing: Displays a list of products with details like name, image, price, and a brief description.
-Product Details: Provides an in-depth view of each product, including a full description and purchase options.
-Profile Page: Contains personal details about the developer and an introduction.
-Navigation: Simple and intuitive navigation between different pages of the app.
-Interactive Design: Includes colorful icons and images for an enhanced user experience.
+- **Home Page:**
+  - A welcoming screen with navigation options to various parts of the app.
+  - Includes buttons to navigate to the Product List and Profile Page.
+- **Product Listing:**
+  - Displays a vertical list of products with details like name, image, price, and a brief description.
+  - Fetches product data from an API.
+  - Products are displayed in a clean and simple layout.
+- **Product Details:**
+  - Provides an in-depth view of each product, including a full description, price, and product image.
+  - Allows navigation back to the Product List.
+  - Includes an "Add to Cart" button for user interaction.
+- **Profile Page:**
+  - Contains personal details 
+- **Navigation:**
+  - Simple and intuitive navigation between the Home Page, Product List, Product Details, and Profile Page.
+- **Interactive Design:**
+  - Includes colorful icons and images for an enhanced user experience.
+  - Utilizes images from the assets folder for a more visually appealing UI.
+
